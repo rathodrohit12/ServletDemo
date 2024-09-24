@@ -1,0 +1,20 @@
+use temp;
+
+create table user(
+ id int primary key auto_increment,
+ name varchar(20),
+ email varchar(30),
+ mobile bigint ,
+ pass varchar(20)
+ );
+ 
+ insert into user(name, email,  mobile, pass)
+ values 
+   ('Rohit', 'rohit@mail.com', 9876543210, 'rohit@123');
+   
+select * from user;
+
+
+
+alter table user add constraint unique(email);
+desc user

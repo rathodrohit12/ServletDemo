@@ -1,0 +1,19 @@
+
+Sept 13, 2024 19:16:16.69 NEW SESSION
+Sept 13, 2024 19:16:16.69 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sept 13, 2024 19:19:28.60 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+
+Sept 16, 2024 21:05:10.72 NEW SESSION
+Sept 16, 2024 21:05:10.73 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sept 16, 2024 21:05:38.42 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sept 16, 2024 21:31:30.48 [15228:17192:0916/213130.484:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Sept 21, 2024 20:24:40.89 NEW SESSION
+Sept 21, 2024 20:24:40.90 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sept 21, 2024 20:25:13.26 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sept 21, 2024 21:01:19.23 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sept 21, 2024 21:01:52.36 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sept 21, 2024 21:18:25.26 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sept 21, 2024 21:18:58.31 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
+Sept 21, 2024 21:45:24.89 Created TensorFlow Lite XNNPACK delegate for CPU.
+Sept 21, 2024 21:45:58.01 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#58 is a dynamic-sized tensor).
